@@ -1,5 +1,5 @@
-rm -rf build_dir
 #!/bin/bash
+rm -rf build_dir
 #
 # https://github.com/P3TERX/Actions-OpenWrt
 # File name: diy-part1.sh
